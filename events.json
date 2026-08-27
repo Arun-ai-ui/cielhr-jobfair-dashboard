@@ -1,25 +1,29 @@
 [
   {
     "id": "e1",
-    "name": "HackerX Tech Job Fair — India",
+    "name": "HackerX Tech Job Fair - Chennai",
     "date": "2026-09-17",
-    "region": "Bengaluru / Metro (South)",
+    "region": "Chennai, Tamil Nadu",
     "org": "HackerX",
-    "fmt": "In-person",
+    "fmt": "hybrid",
     "fee": "Paid — recruiter package (contact HackerX)",
     "regClose": "2026-09-10",
-    "url": "https://hackerx.org/tech-job-fairs/india/"
+    "url": "https://hackerx.org/tech-job-fairs/india",
+    "source": "https://hackerx.org/tech-job-fairs/india",
+    "lastVerified": "2026-08-27"
   },
   {
-    "id": "e2",
-    "name": "Naukri Career Fair 2026 (Virtual)",
-    "date": "2026-10-01",
-    "region": "Pan-India (Virtual)",
-    "org": "Naukri.com",
-    "fmt": "Virtual",
-    "fee": "Paid — employer branding packages",
-    "regClose": "2026-09-25",
-    "url": "https://www.naukri.com/campus/contests/career-fair-2026"
+    "id": "auto-13",
+    "name": "Rojgaar Mela - Ayodhya",
+    "date": "2026-09-18",
+    "region": "Ayodhya, Uttar Pradesh",
+    "org": "Uttar Pradesh Rojgaar Sangam",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://rojgaarsangam.up.gov.in/RojgaarMela",
+    "source": "https://rojgaarsangam.up.gov.in/RojgaarMela",
+    "lastVerified": "2026-08-27"
   },
   {
     "id": "e3",
@@ -30,7 +34,20 @@
     "fmt": "In-person",
     "fee": "Free for hiring employers (register stall)",
     "regClose": "2026-09-20",
-    "url": "https://givelifes.com/event/the-great-chennai-job-fair-2026/"
+    "url": "https://givelifes.com/event/the-great-chennai-job-fair-2026/",
+    "lastVerified": "2026-08-27"
+  },
+  {
+    "id": "e2",
+    "name": "Naukri Career Fair 2026 (Virtual)",
+    "date": "2026-10-01",
+    "region": "Pan-India (Virtual)",
+    "org": "Naukri.com",
+    "fmt": "Virtual",
+    "fee": "Paid — employer branding packages",
+    "regClose": "2026-09-25",
+    "url": "https://www.naukri.com/campus/contests/career-fair-2026",
+    "lastVerified": "2026-08-27"
   },
   {
     "id": "e4",
@@ -41,84 +58,8 @@
     "fmt": "Virtual",
     "fee": "Free (registration & participation)",
     "regClose": "2026-11-08",
-    "url": "https://bfsissc.com/CareerSetu/"
-  },
-  {
-    "id": "e5",
-    "name": "NCS Employment Fair (Rojgar Sangam)",
-    "date": "Recurring — check portal",
-    "region": "Pan-India, district-wise (all zones)",
-    "org": "National Career Service, Govt of India",
-    "fmt": "Hybrid",
-    "fee": "Free for employers",
-    "regClose": "Rolling",
-    "url": "https://www.ncs.gov.in/"
-  },
-  {
-    "id": "e6",
-    "name": "Bihar Rojgar Mela 2026",
-    "date": "Recurring — district-wise",
-    "region": "Bihar (East)",
-    "org": "Bihar Labour Dept / NCS",
-    "fmt": "In-person",
-    "fee": "Free for employers",
-    "regClose": "Rolling",
-    "url": "https://www.skillupbihar.in/guides/bihar-rojgar-mela-job-fair-2026"
-  },
-  {
-    "id": "e7",
-    "name": "Maharashtra Rojgar Melava 2026",
-    "date": "Recurring — Mumbai/Pune/Thane/Nagpur",
-    "region": "Maharashtra (West)",
-    "org": "Maharashtra Skill Dev / NCS",
-    "fmt": "In-person",
-    "fee": "Free for employers",
-    "regClose": "Rolling",
-    "url": "https://majhinaukri.in/rojgar-melava/"
-  },
-  {
-    "id": "e8",
-    "name": "UP Rojgar Mela 2026",
-    "date": "Recurring — district-wise",
-    "region": "Uttar Pradesh (North)",
-    "org": "Sewayojan / Rojgar Sangam UP",
-    "fmt": "In-person",
-    "fee": "Free for employers",
-    "regClose": "Rolling",
-    "url": "https://www.rojgarstudies.com/up-rojgar-mela-june-2026-recruitment/"
-  },
-  {
-    "id": "e9",
-    "name": "International Job Fair Bengaluru (overseas)",
-    "date": "2027-04-04",
-    "region": "Bengaluru, Karnataka (South)",
-    "org": "KVTSDC, Govt of Karnataka",
-    "fmt": "In-person",
-    "fee": "Free registration (employers & candidates)",
-    "regClose": "2027-03-20",
-    "url": "https://bengaluruinternationaljobfair.com/"
-  },
-  {
-    "id": "e10",
-    "name": "NIELIT Mega Job Fair 2026",
-    "date": "Recurring — check schedule",
-    "region": "Multi-city (North & East)",
-    "org": "NIELIT, Govt of India",
-    "fmt": "Hybrid",
-    "fee": "Free for employers",
-    "regClose": "Rolling",
-    "url": "https://www.nielit.gov.in/content/mega-jof-fair"
-  },
-  {
-    "id": "e11",
-    "name": "Chhattisgarh Rojgar Mela 2026",
-    "date": "Recurring — district-wise",
-    "region": "Chhattisgarh (Central)",
-    "org": "CG Employment Dept",
-    "fmt": "In-person",
-    "fee": "Free for employers",
-    "regClose": "Rolling",
-    "url": "https://thehowpedia.com/chhattisgarh-rojgar-mela-cg-job-fair-employment/"
+    "url": "https://bfsissc.com/CareerSetu/",
+    "lastVerified": "2026-08-27"
   },
   {
     "id": "e12",
@@ -129,6 +70,92 @@
     "fmt": "Virtual",
     "fee": "Contact organizer",
     "regClose": "2026-11-28",
-    "url": "https://ieeereturningmothers.in/career-fair-2026/"
+    "url": "https://ieeereturningmothers.in/career-fair-2026/",
+    "lastVerified": "2026-08-27"
+  },
+  {
+    "id": "e7",
+    "name": "Maharashtra Rojgar Melava 2026",
+    "date": "Recurring — Mumbai/Pune/Thane/Nagpur",
+    "region": "Maharashtra (West)",
+    "org": "Maharashtra Skill Dev / NCS",
+    "fmt": "In-person",
+    "fee": "Free for employers",
+    "regClose": "Rolling",
+    "url": "https://majhinaukri.in/rojgar-melava/",
+    "lastVerified": "2026-08-27"
+  },
+  {
+    "id": "e9",
+    "name": "Bengaluru International Job Fair",
+    "date": "Recurring — check portal",
+    "region": "Bengaluru, Karnataka",
+    "org": "Karnataka Vocational Training and Skill Development Corporation (KVTSDC)",
+    "fmt": "physical",
+    "fee": "Free registration (employers & candidates)",
+    "regClose": "2027-03-20",
+    "url": "https://bengaluruinternationaljobfair.com",
+    "source": "https://bengaluruinternationaljobfair.com",
+    "lastVerified": "2026-08-27"
+  },
+  {
+    "id": "e5",
+    "name": "NCS Employment Fair (Rojgar Sangam)",
+    "date": "Recurring — check portal",
+    "region": "Pan-India, district-wise (all zones)",
+    "org": "National Career Service, Govt of India",
+    "fmt": "Hybrid",
+    "fee": "Free for employers",
+    "regClose": "Rolling",
+    "url": "https://www.ncs.gov.in/",
+    "lastVerified": "2026-08-27"
+  },
+  {
+    "id": "e10",
+    "name": "NIELIT Mega Job Fair 2026",
+    "date": "Recurring — check schedule",
+    "region": "Multi-city (North & East)",
+    "org": "NIELIT, Govt of India",
+    "fmt": "Hybrid",
+    "fee": "Free for employers",
+    "regClose": "Rolling",
+    "url": "https://www.nielit.gov.in/content/mega-jof-fair",
+    "lastVerified": "2026-08-27"
+  },
+  {
+    "id": "e6",
+    "name": "Bihar Rojgar Mela 2026",
+    "date": "Recurring — district-wise",
+    "region": "Bihar (East)",
+    "org": "Bihar Labour Dept / NCS",
+    "fmt": "In-person",
+    "fee": "Free for employers",
+    "regClose": "Rolling",
+    "url": "https://www.skillupbihar.in/guides/bihar-rojgar-mela-job-fair-2026",
+    "lastVerified": "2026-08-27"
+  },
+  {
+    "id": "e11",
+    "name": "Chhattisgarh Rojgar Mela 2026",
+    "date": "Recurring — district-wise",
+    "region": "Chhattisgarh (Central)",
+    "org": "CG Employment Dept",
+    "fmt": "In-person",
+    "fee": "Free for employers",
+    "regClose": "Rolling",
+    "url": "https://thehowpedia.com/chhattisgarh-rojgar-mela-cg-job-fair-employment/",
+    "lastVerified": "2026-08-27"
+  },
+  {
+    "id": "e8",
+    "name": "UP Rojgar Mela 2026",
+    "date": "Recurring — district-wise",
+    "region": "Uttar Pradesh (North)",
+    "org": "Sewayojan / Rojgar Sangam UP",
+    "fmt": "In-person",
+    "fee": "Free for employers",
+    "regClose": "Rolling",
+    "url": "https://www.rojgarstudies.com/up-rojgar-mela-june-2026-recruitment/",
+    "lastVerified": "2026-08-27"
   }
 ]
