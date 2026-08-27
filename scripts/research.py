@@ -254,12 +254,12 @@ def wait_for_research(request_id):
 
 
 def extract_events(result):
-    output = result.get("output")
+    content = result.get("content")
 
-    if isinstance(output, dict):
-        events = output.get("events", [])
-    elif isinstance(output, str):
-        parsed = json.loads(output)
+    if isinstance(content, dict):
+        events = content.get("events", [])
+    elif isinstance(content, str):
+        parsed = json.loads(content)
         events = parsed.get("events", [])
     else:
         events = []
