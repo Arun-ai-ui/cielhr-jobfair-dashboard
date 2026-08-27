@@ -94,7 +94,7 @@ footer { margin-top:20px; color:var(--muted); font-size:11.5px; text-align:cente
   <!-- EVENTS TAB -->
   <section id="tab-events">
     <div class="note">
-      Event data below was seeded from public web research (Aug 2026). Government <b>Rojgar Mela / NCS</b> melas recur district-wise year-round; verify exact date, venue &amp; fee via each event's source link before committing a recruiter. Use <b>↺ Reset to seed</b> anytime, or ask me to refresh the list.
+      Event data is loaded from <b>events.json</b>, which is refreshed automatically by the research workflow. Government <b>Rojgar Mela / NCS</b> melas recur district-wise year-round; verify exact date, venue &amp; fee via each event's source link before committing a recruiter.
     </div>
     <div class="stats">
       <div class="stat"><div class="n" id="s-total">0</div><div class="l">Events tracked</div></div>
@@ -167,7 +167,7 @@ footer { margin-top:20px; color:var(--muted); font-size:11.5px; text-align:cente
   </section>
 
   <footer>
-    Data persists locally in this dashboard. Email/WhatsApp buttons open pre-filled messages you send yourself — connect Gmail &amp; a WhatsApp connector to automate sending. · CIEL HR internal tool.
+    Recruiter assignments, notifications, attendance and candidate data persist locally in this browser. Email/WhatsApp buttons open pre-filled messages you send yourself — connect Gmail &amp; a WhatsApp connector to automate sending. · CIEL HR internal tool.
   </footer>
 </div>
 
@@ -233,13 +233,46 @@ const SEED = [
   {id:'e12', name:'IEEE Career Fair 2026 (Returning Mothers)', date:'2026-12-05', region:'Pan-India (Virtual)', org:'IEEE Industrial Engagement Committee', fmt:'Virtual', fee:'Contact organizer', regClose:'2026-11-28', url:'https://ieeereturningmothers.in/career-fair-2026/'}
 ];
 
-let events = load(LS.events, null);
-if(!events){ events = SEED.map(e=>({...e, status:'New', assignee:null, notifiedEmail:false, notifiedWa:false, attended:false})); save(LS.events, events); }
+let events = [];
+let remoteEvents = [];
 let cands = load(LS.cands, []);
+
+function withLocalState(baseEvents){
+  const local = load(LS.events, []);
+  const byId = new Map(local.map(e=>[e.id,e]));
+  return baseEvents.map(e=>{
+    const saved = byId.get(e.id);
+    return {
+      ...e,
+      status: saved?.status || 'New',
+      assignee: saved?.assignee || null,
+      notifiedEmail: !!saved?.notifiedEmail,
+      notifiedWa: !!saved?.notifiedWa,
+      attended: !!saved?.attended
+    };
+  });
+}
+
+async function loadEvents(){
+  try{
+    const res = await fetch('./events.json', {cache:'no-store'});
+    if(!res.ok) throw new Error('events.json could not be loaded');
+    const data = await res.json();
+    if(!Array.isArray(data)) throw new Error('events.json must contain an array');
+    remoteEvents = data;
+    events = withLocalState(data);
+  }catch(err){
+    console.warn('Could not load events.json. Using built-in fallback seed.', err);
+    remoteEvents = SEED;
+    events = withLocalState(SEED);
+  }
+  renderEvents();
+  renderCommunity();
+}
 
 // ---------- helpers ----------
 const $ = id => document.getElementById(id);
-const TODAY = new Date('2026-08-17');
+const TODAY = new Date();
 function daysTo(d){ const t=Date.parse(d); if(isNaN(t)) return null; return Math.round((t-TODAY)/864e5); }
 function feeIsFree(f){ return /free|no fee|no charge/i.test(f||''); }
 function esc(s){ return (s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
@@ -450,9 +483,15 @@ function show(id){ $(id).classList.add('show'); }
 function closeModal(id){ $(id).classList.remove('show'); }
 function exportJSON(){ const blob=new Blob([JSON.stringify({events,cands},null,2)],{type:'application/json'}); const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download='cielhr-jobfair-data.json'; a.click(); }
 function importJSONPrompt(){ const inp=document.createElement('input'); inp.type='file'; inp.accept='.json'; inp.onchange=()=>{ const r=new FileReader(); r.onload=()=>{ try{ const d=JSON.parse(r.result); if(d.events){events=d.events; save(LS.events,events);} if(d.cands){cands=d.cands; save(LS.cands,cands);} renderEvents(); renderCommunity(); alert('Imported.'); }catch(e){ alert('Invalid JSON'); } }; r.readAsText(inp.files[0]); }; inp.click(); }
-function resetSeed(){ if(!confirm('Reset events to the seeded research list? Candidate community is kept.')) return; events=SEED.map(e=>({...e,status:'New',assignee:null,notifiedEmail:false,notifiedWa:false,attended:false})); save(LS.events,events); renderEvents(); }
+function resetSeed(){
+  if(!confirm('Reset event status/assignments using the latest events.json list? Candidate community is kept.')) return;
+  events=withLocalState(remoteEvents.map(e=>({...e,status:'New',assignee:null,notifiedEmail:false,notifiedWa:false,attended:false})));
+  save(LS.events, events);
+  renderEvents();
+  renderAssignments();
+}
 
-renderEvents();
+loadEvents();
 </script>
 </body>
 </html>
