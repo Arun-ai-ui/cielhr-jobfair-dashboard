@@ -56,7 +56,6 @@ Return only events that are relevant to employer/recruiter participation.
 
 
 OUTPUT_SCHEMA = {
-    "type": "object",
     "properties": {
         "events": {
             "type": "array",
