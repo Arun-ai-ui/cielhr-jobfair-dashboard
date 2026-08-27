@@ -6,10 +6,129 @@
     "region": "Bengaluru / Metro (South)",
     "org": "HackerX",
     "fmt": "In-person",
-    "fee": "Paid — recruiter package",
+    "fee": "Paid — recruiter package (contact HackerX)",
     "regClose": "2026-09-10",
-    "url": "https://example.com",
-    "source": "https://example.com",
-    "lastVerified": "2026-08-27"
+    "url": "https://hackerx.org/tech-job-fairs/india/"
+  },
+  {
+    "id": "e2",
+    "name": "Naukri Career Fair 2026 (Virtual)",
+    "date": "2026-10-01",
+    "region": "Pan-India (Virtual)",
+    "org": "Naukri.com",
+    "fmt": "Virtual",
+    "fee": "Paid — employer branding packages",
+    "regClose": "2026-09-25",
+    "url": "https://www.naukri.com/campus/contests/career-fair-2026"
+  },
+  {
+    "id": "e3",
+    "name": "The Great Chennai Job Fair 2026",
+    "date": "2026-09-27",
+    "region": "Chennai, Tamil Nadu (South)",
+    "org": "Give Life / partners",
+    "fmt": "In-person",
+    "fee": "Free for hiring employers (register stall)",
+    "regClose": "2026-09-20",
+    "url": "https://givelifes.com/event/the-great-chennai-job-fair-2026/"
+  },
+  {
+    "id": "e4",
+    "name": "Career Setu BFSI Virtual Job Fair",
+    "date": "2026-11-11",
+    "region": "Pan-India, 20+ states (Virtual)",
+    "org": "BFSI Sector Skill Council",
+    "fmt": "Virtual",
+    "fee": "Free (registration & participation)",
+    "regClose": "2026-11-08",
+    "url": "https://bfsissc.com/CareerSetu/"
+  },
+  {
+    "id": "e5",
+    "name": "NCS Employment Fair (Rojgar Sangam)",
+    "date": "Recurring — check portal",
+    "region": "Pan-India, district-wise (all zones)",
+    "org": "National Career Service, Govt of India",
+    "fmt": "Hybrid",
+    "fee": "Free for employers",
+    "regClose": "Rolling",
+    "url": "https://www.ncs.gov.in/"
+  },
+  {
+    "id": "e6",
+    "name": "Bihar Rojgar Mela 2026",
+    "date": "Recurring — district-wise",
+    "region": "Bihar (East)",
+    "org": "Bihar Labour Dept / NCS",
+    "fmt": "In-person",
+    "fee": "Free for employers",
+    "regClose": "Rolling",
+    "url": "https://www.skillupbihar.in/guides/bihar-rojgar-mela-job-fair-2026"
+  },
+  {
+    "id": "e7",
+    "name": "Maharashtra Rojgar Melava 2026",
+    "date": "Recurring — Mumbai/Pune/Thane/Nagpur",
+    "region": "Maharashtra (West)",
+    "org": "Maharashtra Skill Dev / NCS",
+    "fmt": "In-person",
+    "fee": "Free for employers",
+    "regClose": "Rolling",
+    "url": "https://majhinaukri.in/rojgar-melava/"
+  },
+  {
+    "id": "e8",
+    "name": "UP Rojgar Mela 2026",
+    "date": "Recurring — district-wise",
+    "region": "Uttar Pradesh (North)",
+    "org": "Sewayojan / Rojgar Sangam UP",
+    "fmt": "In-person",
+    "fee": "Free for employers",
+    "regClose": "Rolling",
+    "url": "https://www.rojgarstudies.com/up-rojgar-mela-june-2026-recruitment/"
+  },
+  {
+    "id": "e9",
+    "name": "International Job Fair Bengaluru (overseas)",
+    "date": "2027-04-04",
+    "region": "Bengaluru, Karnataka (South)",
+    "org": "KVTSDC, Govt of Karnataka",
+    "fmt": "In-person",
+    "fee": "Free registration (employers & candidates)",
+    "regClose": "2027-03-20",
+    "url": "https://bengaluruinternationaljobfair.com/"
+  },
+  {
+    "id": "e10",
+    "name": "NIELIT Mega Job Fair 2026",
+    "date": "Recurring — check schedule",
+    "region": "Multi-city (North & East)",
+    "org": "NIELIT, Govt of India",
+    "fmt": "Hybrid",
+    "fee": "Free for employers",
+    "regClose": "Rolling",
+    "url": "https://www.nielit.gov.in/content/mega-jof-fair"
+  },
+  {
+    "id": "e11",
+    "name": "Chhattisgarh Rojgar Mela 2026",
+    "date": "Recurring — district-wise",
+    "region": "Chhattisgarh (Central)",
+    "org": "CG Employment Dept",
+    "fmt": "In-person",
+    "fee": "Free for employers",
+    "regClose": "Rolling",
+    "url": "https://thehowpedia.com/chhattisgarh-rojgar-mela-cg-job-fair-employment/"
+  },
+  {
+    "id": "e12",
+    "name": "IEEE Career Fair 2026 (Returning Mothers)",
+    "date": "2026-12-05",
+    "region": "Pan-India (Virtual)",
+    "org": "IEEE Industrial Engagement Committee",
+    "fmt": "Virtual",
+    "fee": "Contact organizer",
+    "regClose": "2026-11-28",
+    "url": "https://ieeereturningmothers.in/career-fair-2026/"
   }
 ]
