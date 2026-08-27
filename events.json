@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-13",
+    "name": "Uttar Pradesh Rojgar Sangam Job Fair - Meerut",
+    "date": "2026-09-07",
+    "region": "Meerut, Uttar Pradesh",
+    "org": "Uttar Pradesh Government (Rojgar Sangam)",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://rojgaarsangam.up.gov.in/RojgaarMela",
+    "source": "https://rojgaarsangam.up.gov.in/RojgaarMela",
+    "lastVerified": "2026-08-27"
+  },
+  {
     "id": "e1",
     "name": "HackerX Tech Job Fair - Chennai",
     "date": "2026-09-17",
@@ -13,16 +26,16 @@
     "lastVerified": "2026-08-27"
   },
   {
-    "id": "auto-13",
-    "name": "Rojgaar Mela - Ayodhya",
-    "date": "2026-09-18",
-    "region": "Ayodhya, Uttar Pradesh",
-    "org": "Uttar Pradesh Rojgaar Sangam",
+    "id": "auto-14",
+    "name": "HackerX Tech Job Fair - Mumbai",
+    "date": "2026-09-17",
+    "region": "Mumbai, Maharashtra",
+    "org": "HackerX",
     "fmt": "physical",
     "fee": "",
     "regClose": "",
-    "url": "https://rojgaarsangam.up.gov.in/RojgaarMela",
-    "source": "https://rojgaarsangam.up.gov.in/RojgaarMela",
+    "url": "https://hackerx.org/tech-job-fairs/india/mumbai",
+    "source": "https://hackerx.org/tech-job-fairs/india/mumbai",
     "lastVerified": "2026-08-27"
   },
   {
@@ -50,6 +63,19 @@
     "lastVerified": "2026-08-27"
   },
   {
+    "id": "auto-15",
+    "name": "HackerX Tech Job Fair - Hyderabad",
+    "date": "2026-10-15",
+    "region": "Hyderabad, Telangana",
+    "org": "HackerX",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://hackerx.org/tech-job-fairs/india/hyderabad",
+    "source": "https://hackerx.org/tech-job-fairs/india/hyderabad",
+    "lastVerified": "2026-08-27"
+  },
+  {
     "id": "e4",
     "name": "Career Setu BFSI Virtual Job Fair",
     "date": "2026-11-11",
@@ -62,6 +88,19 @@
     "lastVerified": "2026-08-27"
   },
   {
+    "id": "auto-16",
+    "name": "HackerX Tech Job Fair - Pune",
+    "date": "2026-11-12",
+    "region": "Pune, Maharashtra",
+    "org": "HackerX",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://hackerx.org/tech-job-fairs/india/pune",
+    "source": "https://hackerx.org/tech-job-fairs/india/pune",
+    "lastVerified": "2026-08-27"
+  },
+  {
     "id": "e12",
     "name": "IEEE Career Fair 2026 (Returning Mothers)",
     "date": "2026-12-05",
@@ -71,6 +110,19 @@
     "fee": "Contact organizer",
     "regClose": "2026-11-28",
     "url": "https://ieeereturningmothers.in/career-fair-2026/",
+    "lastVerified": "2026-08-27"
+  },
+  {
+    "id": "auto-17",
+    "name": "HackerX Tech Job Fair - Chennai",
+    "date": "2026-12-17",
+    "region": "Chennai, Tamil Nadu",
+    "org": "HackerX",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://hackerx.org/tech-job-fairs/india/chennai",
+    "source": "https://hackerx.org/tech-job-fairs/india/chennai",
     "lastVerified": "2026-08-27"
   },
   {
