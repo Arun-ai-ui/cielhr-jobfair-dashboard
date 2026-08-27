@@ -56,22 +56,21 @@ Return only events that are relevant to employer/recruiter participation.
 
 
 OUTPUT_SCHEMA = {
-    "type": "object",
     "properties": {
         "events": {
             "type": "array",
             "items": {
                 "type": "object",
                 "properties": {
-                    "name": {"type": ["string", "null"]},
-                    "date": {"type": ["string", "null"]},
-                    "region": {"type": ["string", "null"]},
-                    "org": {"type": ["string", "null"]},
-                    "fmt": {"type": ["string", "null"]},
-                    "fee": {"type": ["string", "null"]},
-                    "regClose": {"type": ["string", "null"]},
-                    "url": {"type": ["string", "null"]},
-                    "source": {"type": ["string", "null"]},
+                    "name": {"type": "string"},
+                    "date": {"type": "string"},
+                    "region": {"type": "string"},
+                    "org": {"type": "string"},
+                    "fmt": {"type": "string"},
+                    "fee": {"type": "string"},
+                    "regClose": {"type": "string"},
+                    "url": {"type": "string"},
+                    "source": {"type": "string"},
                 },
                 "required": [
                     "name",
@@ -84,12 +83,10 @@ OUTPUT_SCHEMA = {
                     "url",
                     "source",
                 ],
-                "additionalProperties": False,
             },
         }
     },
     "required": ["events"],
-    "additionalProperties": False,
 }
 
 
@@ -194,7 +191,10 @@ def start_tavily_research():
 
     payload = {
         "input": RESEARCH_PROMPT,
+        "model": "mini",
+        "stream": False,
         "output_schema": OUTPUT_SCHEMA,
+        "output_length": "standard",
     }
 
     response = requests.post(
@@ -204,7 +204,15 @@ def start_tavily_research():
         timeout=60,
     )
 
-    response.raise_for_status()
+    if not response.ok:
+        try:
+            error_body = response.json()
+        except ValueError:
+            error_body = response.text
+
+        raise RuntimeError(
+            f"Tavily Research API error {response.status_code}: {error_body}"
+        )
 
     data = response.json()
 
