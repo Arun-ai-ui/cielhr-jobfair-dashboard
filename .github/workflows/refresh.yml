@@ -1,6 +1,6 @@
 name: Refresh Job Fair Data
 
-on:
+"on":
   workflow_dispatch:
   schedule:
     - cron: "30 3 * * *"
