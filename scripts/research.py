@@ -56,21 +56,23 @@ Return only events that are relevant to employer/recruiter participation.
 
 
 OUTPUT_SCHEMA = {
+    "type": "object",
     "properties": {
         "events": {
             "type": "array",
+            "description": "List of upcoming job fair and candidate event records.",
             "items": {
                 "type": "object",
                 "properties": {
-                    "name": {"type": "string"},
-                    "date": {"type": "string"},
-                    "region": {"type": "string"},
-                    "org": {"type": "string"},
-                    "fmt": {"type": "string"},
-                    "fee": {"type": "string"},
-                    "regClose": {"type": "string"},
-                    "url": {"type": "string"},
-                    "source": {"type": "string"},
+                    "name": {"type": "string", "description": "Event name."},
+                    "date": {"type": "string", "description": "Event date, preferably in YYYY-MM-DD format."},
+                    "region": {"type": "string", "description": "City, state, or region where the event takes place."},
+                    "org": {"type": "string", "description": "Organization conducting or hosting the event."},
+                    "fmt": {"type": "string", "description": "Event format such as physical, online, or hybrid."},
+                    "fee": {"type": "string", "description": "Registration fee or empty string if unknown or free."},
+                    "regClose": {"type": "string", "description": "Registration closing date or empty string if unknown."},
+                    "url": {"type": "string", "description": "Registration or official event URL."},
+                    "source": {"type": "string", "description": "Source URL or source name supporting the event information."},
                 },
                 "required": [
                     "name",
