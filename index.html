@@ -133,7 +133,7 @@ footer { margin-top:20px; color:var(--muted); font-size:11.5px; text-align:cente
 
   <!-- ASSIGNMENTS TAB -->
   <section id="tab-assignments" class="hide">
-    <div class="note">Events assigned to recruiters. Fire an alert (opens a pre-filled Email or WhatsApp message), then mark the recruiter as notified. After the event, hit <b>Attended → Upload DB</b> to fold candidates into the community.</div>
+    <div class="note">Events assigned to recruiters. A Gmail alert is sent automatically from <b>arun.nivas@cielhr.com</b> when you assign a recruiter. The Email/WhatsApp buttons remain available for manual follow-up. After the event, hit <b>Attended → Upload DB</b> to fold candidates into the community.</div>
     <div class="card" style="padding:0; overflow-x:auto;">
       <table>
         <thead><tr><th>Event</th><th>Date</th><th>Recruiter</th><th>Alert</th><th>Notified</th><th>Post-event</th></tr></thead>
@@ -167,7 +167,7 @@ footer { margin-top:20px; color:var(--muted); font-size:11.5px; text-align:cente
   </section>
 
   <footer>
-    Recruiter assignments, notifications, attendance and candidate data persist locally in this browser. Email/WhatsApp buttons open pre-filled messages you send yourself — connect Gmail &amp; a WhatsApp connector to automate sending. · CIEL HR internal tool.
+    Recruiter assignments, notifications, attendance and candidate data persist locally in this browser. Gmail assignment alerts are sent automatically from arun.nivas@cielhr.com; the Email/WhatsApp buttons remain available for manual follow-up. · CIEL HR internal tool.
   </footer>
 </div>
 
@@ -348,11 +348,71 @@ function saveEvent(){
 // ---------- assign ----------
 let assignId=null;
 function openAssign(id){ assignId=id; const e=events.find(x=>x.id===id); $('am_evt').textContent=e.name; const a=e.assignee||{}; $('am_name').value=a.name||''; $('am_email').value=a.email||''; $('am_phone').value=a.phone||''; show('assignModal'); }
+const GMAIL_API_URL = 'https://script.google.com/macros/s/AKfycbyIyd853Jrn9lag5zNfA4SvHcSFCLyPFNidNgRosGKKYbJUbP63GAccnt74ynjmWlz5zw/exec';
+const GMAIL_API_TOKEN = 'CIELHR_JOBFAIR_2026';
+
+async function sendAutomaticEmail(id){
+  const e=events.find(x=>x.id===id);
+  const a=e && e.assignee;
+  if(!e || !a || !a.email) return false;
+
+  const params=new URLSearchParams({
+    token:GMAIL_API_TOKEN,
+    action:'sendEmail',
+    recruiterEmail:a.email,
+    recruiterName:a.name || 'Recruiter',
+    eventName:e.name || 'Job Fair',
+    eventDate:e.date || '',
+    location:e.region || '',
+    format:e.fmt || '',
+    organizer:e.org || '',
+    employerFee:e.fee || '',
+    registrationDeadline:e.regClose || '',
+    eventUrl:e.url || ''
+  });
+
+  try{
+    // The Apps Script endpoint is intentionally called as a simple GET request.
+    // no-cors prevents the browser from blocking the cross-origin request;
+    // the email itself is sent server-side by GmailApp.
+    await fetch(GMAIL_API_URL + '?' + params.toString(), {
+      method:'GET',
+      mode:'no-cors',
+      cache:'no-store',
+      keepalive:true
+    });
+    e.notifiedEmail=true;
+    save(LS.events,events);
+    renderEvents();
+    renderAssignments();
+    return true;
+  }catch(err){
+    console.error('Automatic Gmail alert failed:', err);
+    return false;
+  }
+}
+
 function saveAssign(){
   const e=events.find(x=>x.id===assignId);
   e.assignee={ name:$('am_name').value.trim(), email:$('am_email').value.trim(), phone:$('am_phone').value.trim() };
   if(!e.assignee.name){ alert('Recruiter name required'); return; }
-  e.status='Assigned'; save(LS.events, events); closeModal('assignModal'); renderEvents(); renderAssignments();
+  if(!e.assignee.email){ alert('Recruiter email required'); return; }
+
+  e.status='Assigned';
+  e.notifiedEmail=false;
+  save(LS.events, events);
+  closeModal('assignModal');
+  renderEvents();
+  renderAssignments();
+
+  // Automatically send the assignment alert through the fixed CIEL HR Gmail account.
+  sendAutomaticEmail(e.id).then(ok=>{
+    if(ok){
+      console.log('Automatic Gmail alert requested successfully.');
+    }else{
+      alert('The recruiter was assigned, but the automatic Gmail alert could not be requested. You can use the Email button in My Assignments to resend it.');
+    }
+  });
 }
 function markRegistered(id){ const e=events.find(x=>x.id===id); e.status='Registered'; save(LS.events,events); renderEvents(); renderAssignments(); }
 function markAttended(id){ const e=events.find(x=>x.id===id); e.attended=true; save(LS.events,events); switchTab('community'); openUploadModal(id); renderEvents(); renderAssignments(); }
