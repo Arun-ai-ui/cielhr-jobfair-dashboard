@@ -362,7 +362,7 @@ function alertEmail(id){
   const e=events.find(x=>x.id===id); const a=e.assignee; if(!a||!a.email){ alert('Add recruiter email first (Assign).'); return; }
   const subj=`Job fair to attend: ${e.name} (${e.date})`;
   const body=`Hi ${a.name},\n\nPlease attend and represent CIEL HR at this hiring event:\n\nEvent: ${e.name}\nDate: ${e.date}\nLocation: ${e.region}\nFormat: ${e.fmt}\nOrganizer: ${e.org}\nEmployer fee: ${e.fee}\nRegister by: ${e.regClose}\nDetails: ${e.url}\n\nPlease confirm registration, and after the event upload your candidate database into the dashboard.\n\nThanks,\nCIEL HR`;
-  window.open(`mailto:${encodeURIComponent(a.email)}?subject=${encodeURIComponent(subj)}&body=${encodeURIComponent(body)}`,'_blank');
+  window.open(`https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=${encodeURIComponent(a.email)}&su=${encodeURIComponent(subj)}&body=${encodeURIComponent(body)}`,'_blank');
   e.notifiedEmail=true; save(LS.events,events); renderAssignments();
 }
 function alertWa(id){
