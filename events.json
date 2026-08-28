@@ -13,17 +13,17 @@
     "lastVerified": "2026-08-27"
   },
   {
-    "id": "e1",
-    "name": "HackerX Tech Job Fair - Chennai",
-    "date": "2026-09-17",
-    "region": "Chennai, Tamil Nadu",
-    "org": "HackerX",
-    "fmt": "hybrid",
-    "fee": "Paid — recruiter package (contact HackerX)",
-    "regClose": "2026-09-10",
-    "url": "https://hackerx.org/tech-job-fairs/india",
-    "source": "https://hackerx.org/tech-job-fairs/india",
-    "lastVerified": "2026-08-27"
+    "id": "auto-18",
+    "name": "Mission Rojgar Job Fair – Himachal Pradesh",
+    "date": "2026-09-13",
+    "region": "DAV Public School, Himachal Pradesh",
+    "org": "Government of Himachal Pradesh",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.facebook.com/FEDERATIONOFINDIANINDUSTRY/posts/mission-rojgar-himachal-upcoming-job-fairfii-himac/1088205917198149",
+    "source": "https://www.facebook.com/FEDERATIONOFINDIANINDUSTRY/posts/mission-rojgar-himachal-upcoming-job-fairfii-himac/1088205917198149",
+    "lastVerified": "2026-08-28"
   },
   {
     "id": "auto-14",
@@ -64,7 +64,7 @@
   },
   {
     "id": "auto-15",
-    "name": "HackerX Tech Job Fair - Hyderabad",
+    "name": "HackerX Tech Job Fair – Hyderabad",
     "date": "2026-10-15",
     "region": "Hyderabad, Telangana",
     "org": "HackerX",
@@ -123,6 +123,19 @@
     "regClose": "",
     "url": "https://hackerx.org/tech-job-fairs/india/chennai",
     "source": "https://hackerx.org/tech-job-fairs/india/chennai",
+    "lastVerified": "2026-08-27"
+  },
+  {
+    "id": "e1",
+    "name": "HackerX Tech Job Fair – Chennai",
+    "date": "2026-12-17",
+    "region": "Chennai, Tamil Nadu",
+    "org": "HackerX",
+    "fmt": "physical",
+    "fee": "Paid — recruiter package (contact HackerX)",
+    "regClose": "2026-09-10",
+    "url": "https://hackerx.org/tech-job-fairs/india",
+    "source": "https://hackerx.org/tech-job-fairs/india",
     "lastVerified": "2026-08-27"
   },
   {
