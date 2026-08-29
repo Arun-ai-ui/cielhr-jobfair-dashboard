@@ -113,6 +113,19 @@
     "lastVerified": "2026-08-27"
   },
   {
+    "id": "e1",
+    "name": "HackerX Job Fair – Chennai",
+    "date": "2026-12-17",
+    "region": "Chennai, Tamil Nadu",
+    "org": "HackerX",
+    "fmt": "physical",
+    "fee": "Paid — recruiter package (contact HackerX)",
+    "regClose": "2026-09-10",
+    "url": "https://hackerx.org/tech-job-fairs/india",
+    "source": "https://hackerx.org/tech-job-fairs/india",
+    "lastVerified": "2026-08-27"
+  },
+  {
     "id": "auto-17",
     "name": "HackerX Tech Job Fair - Chennai",
     "date": "2026-12-17",
@@ -123,19 +136,6 @@
     "regClose": "",
     "url": "https://hackerx.org/tech-job-fairs/india/chennai",
     "source": "https://hackerx.org/tech-job-fairs/india/chennai",
-    "lastVerified": "2026-08-27"
-  },
-  {
-    "id": "e1",
-    "name": "HackerX Tech Job Fair – Chennai",
-    "date": "2026-12-17",
-    "region": "Chennai, Tamil Nadu",
-    "org": "HackerX",
-    "fmt": "physical",
-    "fee": "Paid — recruiter package (contact HackerX)",
-    "regClose": "2026-09-10",
-    "url": "https://hackerx.org/tech-job-fairs/india",
-    "source": "https://hackerx.org/tech-job-fairs/india",
     "lastVerified": "2026-08-27"
   },
   {
