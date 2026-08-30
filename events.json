@@ -1,5 +1,31 @@
 [
   {
+    "id": "auto-20",
+    "name": "Khagaria Rojgar Mela",
+    "date": "2026-08-31",
+    "region": "Khagaria, Bihar",
+    "org": "DETJOB (Bihar)",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://detjob.bihar.gov.in",
+    "source": "https://detjob.bihar.gov.in",
+    "lastVerified": "2026-08-30"
+  },
+  {
+    "id": "auto-21",
+    "name": "PM Rojgar Mela 2026",
+    "date": "2026-09-05",
+    "region": "Nationwide, India",
+    "org": "Government of India (Prime Minister's Office)",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://thehowpedia.com/pm-rojgar-mela-registration",
+    "source": "https://thehowpedia.com/pm-rojgar-mela-registration",
+    "lastVerified": "2026-08-30"
+  },
+  {
     "id": "auto-13",
     "name": "Uttar Pradesh Rojgar Sangam Job Fair - Meerut",
     "date": "2026-09-07",
@@ -63,8 +89,21 @@
     "lastVerified": "2026-08-27"
   },
   {
+    "id": "auto-19",
+    "name": "Rojgar Mahakumbh 2026",
+    "date": "2026-10-09",
+    "region": "Prayagraj, Uttar Pradesh",
+    "org": "Telecom Sector Skill Council (TSSC)",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://telcojobs.in/jobfairlist.aspx",
+    "source": "https://telcojobs.in/jobfairlist.aspx",
+    "lastVerified": "2026-08-30"
+  },
+  {
     "id": "auto-15",
-    "name": "HackerX Tech Job Fair – Hyderabad",
+    "name": "HackerX Hyderabad Tech Job Fair",
     "date": "2026-10-15",
     "region": "Hyderabad, Telangana",
     "org": "HackerX",
@@ -89,7 +128,7 @@
   },
   {
     "id": "auto-16",
-    "name": "HackerX Tech Job Fair - Pune",
+    "name": "HackerX Pune Tech Job Fair",
     "date": "2026-11-12",
     "region": "Pune, Maharashtra",
     "org": "HackerX",
@@ -113,6 +152,19 @@
     "lastVerified": "2026-08-27"
   },
   {
+    "id": "auto-17",
+    "name": "HackerX Chennai Tech Job Fair",
+    "date": "2026-12-17",
+    "region": "Chennai, Tamil Nadu",
+    "org": "HackerX",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://hackerx.org/tech-job-fairs/india/chennai",
+    "source": "https://hackerx.org/tech-job-fairs/india/chennai",
+    "lastVerified": "2026-08-27"
+  },
+  {
     "id": "e1",
     "name": "HackerX Job Fair – Chennai",
     "date": "2026-12-17",
@@ -123,19 +175,6 @@
     "regClose": "2026-09-10",
     "url": "https://hackerx.org/tech-job-fairs/india",
     "source": "https://hackerx.org/tech-job-fairs/india",
-    "lastVerified": "2026-08-27"
-  },
-  {
-    "id": "auto-17",
-    "name": "HackerX Tech Job Fair - Chennai",
-    "date": "2026-12-17",
-    "region": "Chennai, Tamil Nadu",
-    "org": "HackerX",
-    "fmt": "physical",
-    "fee": "",
-    "regClose": "",
-    "url": "https://hackerx.org/tech-job-fairs/india/chennai",
-    "source": "https://hackerx.org/tech-job-fairs/india/chennai",
     "lastVerified": "2026-08-27"
   },
   {
