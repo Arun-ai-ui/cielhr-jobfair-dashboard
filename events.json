@@ -166,7 +166,7 @@
   },
   {
     "id": "e1",
-    "name": "HackerX Job Fair – Chennai",
+    "name": "HackerX Tech Job Fair – Chennai",
     "date": "2026-12-17",
     "region": "Chennai, Tamil Nadu",
     "org": "HackerX",
@@ -213,6 +213,19 @@
     "regClose": "Rolling",
     "url": "https://www.ncs.gov.in/",
     "lastVerified": "2026-08-27"
+  },
+  {
+    "id": "auto-22",
+    "name": "West Bengal Rojgar Sewa Job Fair",
+    "date": "Recurring — check portal",
+    "region": "Kolkata, West Bengal",
+    "org": "Department of Technical Education, Training & Skill Development, Government of West Bengal",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": null,
+    "url": "https://tetsd.wb.gov.in/rojgar_sewa",
+    "source": "https://tetsd.wb.gov.in/rojgar_sewa",
+    "lastVerified": "2026-08-31"
   },
   {
     "id": "e10",
