@@ -26,19 +26,6 @@
     "lastVerified": "2026-08-30"
   },
   {
-    "id": "auto-13",
-    "name": "Uttar Pradesh Rojgar Sangam Job Fair - Meerut",
-    "date": "2026-09-07",
-    "region": "Meerut, Uttar Pradesh",
-    "org": "Uttar Pradesh Government (Rojgar Sangam)",
-    "fmt": "physical",
-    "fee": "",
-    "regClose": "",
-    "url": "https://rojgaarsangam.up.gov.in/RojgaarMela",
-    "source": "https://rojgaarsangam.up.gov.in/RojgaarMela",
-    "lastVerified": "2026-08-27"
-  },
-  {
     "id": "auto-18",
     "name": "Mission Rojgar Job Fair – Himachal Pradesh",
     "date": "2026-09-13",
@@ -62,6 +49,19 @@
     "regClose": "",
     "url": "https://hackerx.org/tech-job-fairs/india/mumbai",
     "source": "https://hackerx.org/tech-job-fairs/india/mumbai",
+    "lastVerified": "2026-08-27"
+  },
+  {
+    "id": "auto-13",
+    "name": "Uttar Pradesh Rojgar Mela – Meerut",
+    "date": "2026-09-23 to 2026-09-30",
+    "region": "Meerut, Uttar Pradesh",
+    "org": "Government of Uttar Pradesh",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://rojgaarsangam.up.gov.in/RojgaarMela",
+    "source": "https://rojgaarsangam.up.gov.in/RojgaarMela",
     "lastVerified": "2026-08-27"
   },
   {
@@ -201,6 +201,19 @@
     "url": "https://bengaluruinternationaljobfair.com",
     "source": "https://bengaluruinternationaljobfair.com",
     "lastVerified": "2026-08-27"
+  },
+  {
+    "id": "auto-23",
+    "name": "Maharashtra State Job Fair Programme",
+    "date": "Recurring — check portal",
+    "region": "Maharashtra",
+    "org": "Government of Maharashtra, Skill Development, Employment and Entrepreneurship Department",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.freepressjournal.in/mumbai/maharashtra-to-organise-1000-job-fairs-across-state-from-april-2026-to-boost-youth-employment",
+    "source": "https://www.freepressjournal.in/mumbai/maharashtra-to-organise-1000-job-fairs-across-state-from-april-2026-to-boost-youth-employment",
+    "lastVerified": "2026-09-01"
   },
   {
     "id": "e5",
