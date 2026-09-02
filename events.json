@@ -14,16 +14,29 @@
   },
   {
     "id": "auto-21",
-    "name": "PM Rojgar Mela 2026",
+    "name": "PM Rojgar Mela 2026 (Webcast)",
     "date": "2026-09-05",
-    "region": "Nationwide, India",
-    "org": "Government of India (Prime Minister's Office)",
-    "fmt": "physical",
+    "region": "India",
+    "org": "Government of India",
+    "fmt": "online",
     "fee": "",
     "regClose": "",
     "url": "https://thehowpedia.com/pm-rojgar-mela-registration",
     "source": "https://thehowpedia.com/pm-rojgar-mela-registration",
     "lastVerified": "2026-08-30"
+  },
+  {
+    "id": "auto-24",
+    "name": "National Job Fair 2026",
+    "date": "2026-09-07",
+    "region": "India",
+    "org": "National Career Fairs",
+    "fmt": "online",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.eventbrite.com/e/national-job-fair-september-7-2026-national-career-fairs-tickets-1991498561808",
+    "source": "https://www.eventbrite.com/e/national-job-fair-september-7-2026-national-career-fairs-tickets-1991498561808",
+    "lastVerified": "2026-09-02"
   },
   {
     "id": "auto-18",
@@ -226,6 +239,19 @@
     "regClose": "Rolling",
     "url": "https://www.ncs.gov.in/",
     "lastVerified": "2026-08-27"
+  },
+  {
+    "id": "auto-25",
+    "name": "Quarterly Job Mela (NCS)",
+    "date": "Recurring — check portal",
+    "region": "India (various)",
+    "org": "National Career Service (NCS)",
+    "fmt": "online",
+    "fee": "",
+    "regClose": "",
+    "url": "https://dect.assam.gov.in/portlets/job-mela-rojgar-mela-job-fair",
+    "source": "https://dect.assam.gov.in/portlets/job-mela-rojgar-mela-job-fair",
+    "lastVerified": "2026-09-02"
   },
   {
     "id": "auto-22",
