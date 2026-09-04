@@ -1,18 +1,5 @@
 [
   {
-    "id": "auto-20",
-    "name": "Khagaria Rojgar Mela",
-    "date": "2026-08-31",
-    "region": "Khagaria, Bihar",
-    "org": "DETJOB (Bihar)",
-    "fmt": "physical",
-    "fee": "",
-    "regClose": "",
-    "url": "https://detjob.bihar.gov.in",
-    "source": "https://detjob.bihar.gov.in",
-    "lastVerified": "2026-08-30"
-  },
-  {
     "id": "auto-21",
     "name": "PM Rojgar Mela 2026 (Webcast)",
     "date": "2026-09-05",
@@ -88,6 +75,19 @@
     "regClose": "2026-09-20",
     "url": "https://givelifes.com/event/the-great-chennai-job-fair-2026/",
     "lastVerified": "2026-08-27"
+  },
+  {
+    "id": "auto-27",
+    "name": "Karur Mega Job Fair",
+    "date": "2026-09-29",
+    "region": "Karur, Tamil Nadu",
+    "org": "Tamil Nadu Employment Department",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://careerstn.com/tamil-nadu-employment-department-job-fairs-schedule-august-2026",
+    "source": "https://careerstn.com/tamil-nadu-employment-department-job-fairs-schedule-august-2026",
+    "lastVerified": "2026-09-04"
   },
   {
     "id": "e2",
@@ -216,6 +216,45 @@
     "lastVerified": "2026-08-27"
   },
   {
+    "id": "auto-31",
+    "name": "Daman Employment Fair 2026",
+    "date": "Recurring — check portal",
+    "region": "Daman, Daman & Diu",
+    "org": "Department of Industries, UT Administration of Dadra & Nagar Haveli and Daman & Diu",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.instagram.com/p/Dcqx1Qftvu0",
+    "source": "https://www.instagram.com/p/Dcqx1Qftvu0",
+    "lastVerified": "2026-09-04"
+  },
+  {
+    "id": "auto-29",
+    "name": "Gandhinagar Mega Job Fair",
+    "date": "Recurring — check portal",
+    "region": "Gandhinagar, Gujarat",
+    "org": "Directorate of Employment & Training, Gujarat",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.marugujarat.in/2026/05/gandhinagar-mega-job-fair-2026-registration",
+    "source": "https://www.marugujarat.in/2026/05/gandhinagar-mega-job-fair-2026-registration",
+    "lastVerified": "2026-09-04"
+  },
+  {
+    "id": "auto-30",
+    "name": "Karnataka International Job Fair",
+    "date": "Recurring — check portal",
+    "region": "Bengaluru, Karnataka",
+    "org": "Department of Skill Development, Entrepreneurship and Livelihood, Karnataka",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.newindianexpress.com/states/karnataka/2025/Nov/22/karnataka-to-host-first-international-job-fair-in-bengaluru-for-skilled-workers-in-jan-2026-2361238",
+    "source": "https://www.newindianexpress.com/states/karnataka/2025/Nov/22/karnataka-to-host-first-international-job-fair-in-bengaluru-for-skilled-workers-in-jan-2026-2361238",
+    "lastVerified": "2026-09-04"
+  },
+  {
     "id": "auto-23",
     "name": "Maharashtra State Job Fair Programme",
     "date": "Recurring — check portal",
@@ -229,6 +268,19 @@
     "lastVerified": "2026-09-01"
   },
   {
+    "id": "auto-26",
+    "name": "National Career Service Weekly Job Fair",
+    "date": "Recurring — check portal",
+    "region": "Noida, Uttar Pradesh",
+    "org": "National Career Service",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.facebook.com/NationalCareerService/posts/the-national-career-service-ncs-organizes-job-fairs-every-friday-bringing-fresh-/1505109758287720",
+    "source": "https://www.facebook.com/NationalCareerService/posts/the-national-career-service-ncs-organizes-job-fairs-every-friday-bringing-fresh-/1505109758287720",
+    "lastVerified": "2026-09-04"
+  },
+  {
     "id": "e5",
     "name": "NCS Employment Fair (Rojgar Sangam)",
     "date": "Recurring — check portal",
@@ -239,6 +291,45 @@
     "regClose": "Rolling",
     "url": "https://www.ncs.gov.in/",
     "lastVerified": "2026-08-27"
+  },
+  {
+    "id": "auto-32",
+    "name": "NIELIT Ropar Job Fair 2026",
+    "date": "Recurring — check portal",
+    "region": "Ropar, Punjab",
+    "org": "National Institute of Electronics & Information Technology (NIELIT) Ropar",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2239850",
+    "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2239850",
+    "lastVerified": "2026-09-04"
+  },
+  {
+    "id": "auto-28",
+    "name": "Odisha Nijukti Mela",
+    "date": "Recurring — check portal",
+    "region": "Bhubaneswar, Odisha",
+    "org": "Odisha Government",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.odishagovtexam.com/2026/02/odisha-job-fair-nijukti-mela.html",
+    "source": "https://www.odishagovtexam.com/2026/02/odisha-job-fair-nijukti-mela.html",
+    "lastVerified": "2026-09-04"
+  },
+  {
+    "id": "auto-20",
+    "name": "Patna First Job Fair",
+    "date": "Recurring — check portal",
+    "region": "Patna, Bihar",
+    "org": "Department of Youth, Employment and Skill Development, Bihar",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://detjob.bihar.gov.in",
+    "source": "https://detjob.bihar.gov.in",
+    "lastVerified": "2026-08-30"
   },
   {
     "id": "auto-25",
@@ -254,11 +345,24 @@
     "lastVerified": "2026-09-02"
   },
   {
+    "id": "auto-33",
+    "name": "VijnanaKeralam Virtual Job Fair",
+    "date": "Recurring — check portal",
+    "region": "Kerala",
+    "org": "VijnanaKeralam",
+    "fmt": "online",
+    "fee": "",
+    "regClose": "",
+    "url": "https://vijnanakeralam.kerala.gov.in/articledetail/VirtualJobFairs",
+    "source": "https://vijnanakeralam.kerala.gov.in/articledetail/VirtualJobFairs",
+    "lastVerified": "2026-09-04"
+  },
+  {
     "id": "auto-22",
     "name": "West Bengal Rojgar Sewa Job Fair",
     "date": "Recurring — check portal",
-    "region": "Kolkata, West Bengal",
-    "org": "Department of Technical Education, Training & Skill Development, Government of West Bengal",
+    "region": "West Bengal",
+    "org": "Department of Technical Education, Training & Skill Development, West Bengal",
     "fmt": "physical",
     "fee": "",
     "regClose": null,
