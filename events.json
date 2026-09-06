@@ -90,6 +90,19 @@
     "lastVerified": "2026-09-04"
   },
   {
+    "id": "auto-34",
+    "name": "Rojgar Mahakumbh 2026",
+    "date": "2026-09-29",
+    "region": "Maharashtra",
+    "org": "Government of Maharashtra",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.freepressjournal.in/mumbai/maharashtra-to-hold-statewide-rojgar-mahakumbh-on-september-29-to-boost-youth-employment-opportunities",
+    "source": "https://www.freepressjournal.in/mumbai/maharashtra-to-hold-statewide-rojgar-mahakumbh-on-september-29-to-boost-youth-employment-opportunities",
+    "lastVerified": "2026-09-06"
+  },
+  {
     "id": "e2",
     "name": "Naukri Career Fair 2026 (Virtual)",
     "date": "2026-10-01",
@@ -203,19 +216,6 @@
     "lastVerified": "2026-08-27"
   },
   {
-    "id": "e9",
-    "name": "Bengaluru International Job Fair",
-    "date": "Recurring — check portal",
-    "region": "Bengaluru, Karnataka",
-    "org": "Karnataka Vocational Training and Skill Development Corporation (KVTSDC)",
-    "fmt": "physical",
-    "fee": "Free registration (employers & candidates)",
-    "regClose": "2027-03-20",
-    "url": "https://bengaluruinternationaljobfair.com",
-    "source": "https://bengaluruinternationaljobfair.com",
-    "lastVerified": "2026-08-27"
-  },
-  {
     "id": "auto-31",
     "name": "Daman Employment Fair 2026",
     "date": "Recurring — check portal",
@@ -242,6 +242,19 @@
     "lastVerified": "2026-09-04"
   },
   {
+    "id": "e9",
+    "name": "International Job Fair Bengaluru 2026",
+    "date": "Recurring — check portal",
+    "region": "Bengaluru, Karnataka",
+    "org": "Government of Karnataka, Department of Skill Development & Entrepreneurship",
+    "fmt": "physical",
+    "fee": "Free registration (employers & candidates)",
+    "regClose": "2027-03-20",
+    "url": "https://bengaluruinternationaljobfair.com",
+    "source": "https://bengaluruinternationaljobfair.com",
+    "lastVerified": "2026-08-27"
+  },
+  {
     "id": "auto-30",
     "name": "Karnataka International Job Fair",
     "date": "Recurring — check portal",
@@ -256,10 +269,10 @@
   },
   {
     "id": "auto-23",
-    "name": "Maharashtra State Job Fair Programme",
+    "name": "Maharashtra Statewide Job Fair Series 2026",
     "date": "Recurring — check portal",
     "region": "Maharashtra",
-    "org": "Government of Maharashtra, Skill Development, Employment and Entrepreneurship Department",
+    "org": "Government of Maharashtra, Skill Development, Employment, Entrepreneurship and Innovation Department",
     "fmt": "physical",
     "fee": "",
     "regClose": "",
