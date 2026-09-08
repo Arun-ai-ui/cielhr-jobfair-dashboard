@@ -26,6 +26,19 @@
     "lastVerified": "2026-09-02"
   },
   {
+    "id": "auto-20",
+    "name": "Rojgar Mela Arwal 2026",
+    "date": "2026-09-09",
+    "region": "Arwal, Bihar",
+    "org": "DETJOB (Bihar Government)",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://detjob.bihar.gov.in",
+    "source": "https://detjob.bihar.gov.in",
+    "lastVerified": "2026-08-30"
+  },
+  {
     "id": "auto-18",
     "name": "Mission Rojgar Job Fair – Himachal Pradesh",
     "date": "2026-09-13",
@@ -79,10 +92,10 @@
   },
   {
     "id": "auto-13",
-    "name": "Job Fair in Ayodhya",
-    "date": "2026-09-18",
-    "region": "Ayodhya, Uttar Pradesh",
-    "org": "Rojgaar Sangam, Uttar Pradesh",
+    "name": "Rojgaar Mela Lucknow 2026",
+    "date": "2026-09-23",
+    "region": "Lucknow, Uttar Pradesh",
+    "org": "Directorate of Training & Employment, Uttar Pradesh",
     "fmt": "physical",
     "fee": "",
     "regClose": "",
@@ -191,19 +204,6 @@
     "lastVerified": "2026-08-27"
   },
   {
-    "id": "e1",
-    "name": "HackerX - Chennai",
-    "date": "2026-12-17",
-    "region": "Chennai, Tamil Nadu",
-    "org": "HackerX",
-    "fmt": "physical",
-    "fee": "Paid — recruiter package (contact HackerX)",
-    "regClose": "2026-09-10",
-    "url": "https://hackerx.org/tech-job-fairs/india",
-    "source": "https://hackerx.org/tech-job-fairs/india",
-    "lastVerified": "2026-08-27"
-  },
-  {
     "id": "auto-17",
     "name": "HackerX Chennai Tech Job Fair",
     "date": "2026-12-17",
@@ -214,6 +214,19 @@
     "regClose": "",
     "url": "https://hackerx.org/tech-job-fairs/india/chennai",
     "source": "https://hackerx.org/tech-job-fairs/india/chennai",
+    "lastVerified": "2026-08-27"
+  },
+  {
+    "id": "e1",
+    "name": "HackerX Tech Job Fair Chennai 2026",
+    "date": "2026-12-17",
+    "region": "Chennai, Tamil Nadu",
+    "org": "HackerX",
+    "fmt": "physical",
+    "fee": "Paid — recruiter package (contact HackerX)",
+    "regClose": "2026-09-10",
+    "url": "https://hackerx.org/tech-job-fairs/india",
+    "source": "https://hackerx.org/tech-job-fairs/india",
     "lastVerified": "2026-08-27"
   },
   {
@@ -259,12 +272,12 @@
     "name": "International Job Fair Bengaluru 2026",
     "date": "Recurring — check portal",
     "region": "Bengaluru, Karnataka",
-    "org": "Government of Karnataka, Department of Skill Development & Entrepreneurship",
+    "org": "Department of Skill Development, Entrepreneurship and Livelihood, Government of Karnataka",
     "fmt": "physical",
     "fee": "Free registration (employers & candidates)",
     "regClose": "2027-03-20",
-    "url": "https://bengaluruinternationaljobfair.com",
-    "source": "https://bengaluruinternationaljobfair.com",
+    "url": "https://www.newindianexpress.com/states/karnataka/2025/Nov/22/karnataka-to-host-first-international-job-fair-in-bengaluru-for-skilled-workers-in-jan-2026",
+    "source": "https://www.newindianexpress.com/states/karnataka/2025/Nov/22/karnataka-to-host-first-international-job-fair-in-bengaluru-for-skilled-workers-in-jan-2026",
     "lastVerified": "2026-08-27"
   },
   {
@@ -282,16 +295,29 @@
   },
   {
     "id": "auto-23",
-    "name": "Maharashtra State Job Fairs 2026-2027",
+    "name": "Maharashtra 1000 Job Fairs Program",
     "date": "Recurring — check portal",
     "region": "Maharashtra",
-    "org": "Government of Maharashtra",
+    "org": "Government of Maharashtra, Ministry of Skill Development, Employment, Entrepreneurship and Innovation",
     "fmt": "physical",
     "fee": "",
     "regClose": "",
     "url": "https://www.freepressjournal.in/mumbai/maharashtra-to-organise-1000-job-fairs-across-state-from-april-2026-to-boost-youth-employment",
     "source": "https://www.freepressjournal.in/mumbai/maharashtra-to-organise-1000-job-fairs-across-state-from-april-2026-to-boost-youth-employment",
     "lastVerified": "2026-09-01"
+  },
+  {
+    "id": "auto-38",
+    "name": "Mega Job Fair Chandigarh 2026",
+    "date": "Recurring — check portal",
+    "region": "Chandigarh",
+    "org": "Doaba Group of Colleges",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.facebook.com/dgc.edu.in/posts/-the-wait-is-over-mega-job-fair-2026-is-live-the-campus-is-buzzing-with-opportun/1461219986024994",
+    "source": "https://www.facebook.com/dgc.edu.in/posts/-the-wait-is-over-mega-job-fair-2026-is-live-the-campus-is-buzzing-with-opportun/1461219986024994",
+    "lastVerified": "2026-09-08"
   },
   {
     "id": "auto-26",
@@ -358,19 +384,6 @@
     "lastVerified": "2026-09-04"
   },
   {
-    "id": "auto-20",
-    "name": "Patna First Job Fair",
-    "date": "Recurring — check portal",
-    "region": "Patna, Bihar",
-    "org": "Department of Youth, Employment and Skill Development, Bihar",
-    "fmt": "physical",
-    "fee": "",
-    "regClose": "",
-    "url": "https://detjob.bihar.gov.in",
-    "source": "https://detjob.bihar.gov.in",
-    "lastVerified": "2026-08-30"
-  },
-  {
     "id": "auto-25",
     "name": "Quarterly Job Mela (NCS)",
     "date": "Recurring — check portal",
@@ -408,6 +421,19 @@
     "url": "https://tetsd.wb.gov.in/rojgar_sewa",
     "source": "https://tetsd.wb.gov.in/rojgar_sewa",
     "lastVerified": "2026-08-31"
+  },
+  {
+    "id": "auto-37",
+    "name": "Yuva Sangam Job Fair Rewa 2026",
+    "date": "Recurring — check portal",
+    "region": "Rewa, Madhya Pradesh",
+    "org": "ITi Jobs Beta",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.facebook.com/itijobsbeta/posts/yuva-sangam-job-fair-2026-rewa-madhya-pradeshyuva-sangam-job-fair-2026-rewa-dist/1550647640398872",
+    "source": "https://www.facebook.com/itijobsbeta/posts/yuva-sangam-job-fair-2026-rewa-madhya-pradeshyuva-sangam-job-fair-2026-rewa-dist/1550647640398872",
+    "lastVerified": "2026-09-08"
   },
   {
     "id": "e10",
