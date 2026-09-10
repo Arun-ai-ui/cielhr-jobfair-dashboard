@@ -39,6 +39,32 @@
     "lastVerified": "2026-08-30"
   },
   {
+    "id": "auto-39",
+    "name": "One-Day Job Fair – Uttarakhand",
+    "date": "2026-09-10",
+    "region": "Srinagar Garhwal, Uttarakhand",
+    "org": "Directorate of Training & Employment, Government of Uttarakhand",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://rojgar.uk.gov.in",
+    "source": "https://rojgar.uk.gov.in",
+    "lastVerified": "2026-09-10"
+  },
+  {
+    "id": "auto-40",
+    "name": "Mission Rojgar Himachal Job Fair",
+    "date": "2026-09-13",
+    "region": "Sarkaghat, Mandi, Himachal Pradesh",
+    "org": "Federation of Indian Industry (FII) in collaboration with Mission Rojgar Himachal",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.facebook.com/FEDERATIONOFINDIANINDUSTRY/posts/mission-rojgar-himachal-upcoming-job-fairfederation-of-indian-industry-fii-himac/1088205917198149",
+    "source": "https://www.facebook.com/FEDERATIONOFINDIANINDUSTRY/posts/mission-rojgar-himachal-upcoming-job-fairfederation-of-indian-industry-fii-himac/1088205917198149",
+    "lastVerified": "2026-09-10"
+  },
+  {
     "id": "auto-18",
     "name": "Mission Rojgar Job Fair – Himachal Pradesh",
     "date": "2026-09-13",
@@ -382,6 +408,19 @@
     "url": "https://www.odishagovtexam.com/2026/02/odisha-job-fair-nijukti-mela.html",
     "source": "https://www.odishagovtexam.com/2026/02/odisha-job-fair-nijukti-mela.html",
     "lastVerified": "2026-09-04"
+  },
+  {
+    "id": "auto-41",
+    "name": "Online Job Fair – Puducherry Labour Department",
+    "date": "Recurring — check portal",
+    "region": "Puducherry, Union Territory of Puducherry",
+    "org": "Puducherry Labour Department",
+    "fmt": "online",
+    "fee": "",
+    "regClose": "",
+    "url": "https://timesofindia.indiatimes.com/city/puducherry/puducherry-labour-dept-to-hold-job-fair/articleshow/79366964.cms",
+    "source": "https://timesofindia.indiatimes.com/city/puducherry/puducherry-labour-dept-to-hold-job-fair/articleshow/79366964.cms",
+    "lastVerified": "2026-09-10"
   },
   {
     "id": "auto-25",
