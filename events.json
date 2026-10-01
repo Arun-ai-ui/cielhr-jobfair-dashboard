@@ -180,6 +180,32 @@
     "lastVerified": "2026-08-27"
   },
   {
+    "id": "auto-43",
+    "name": "Raipur State Level Rojgar Mela",
+    "date": "2026-10-07",
+    "region": "Raipur, Chhattisgarh",
+    "org": "Government of Chhattisgarh",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.bhaskar.com/g/local/chhattisgarh/raipur/news/raipur-state-level-rojgar-mela-job-fair-hiring-private-companies-139154237.html",
+    "source": "https://www.bhaskar.com/g/local/chhattisgarh/raipur/news/raipur-state-level-rojgar-mela-job-fair-hiring-private-companies-139154237.html",
+    "lastVerified": "2026-10-01"
+  },
+  {
+    "id": "auto-42",
+    "name": "Rojgar Mahakumbh 2026 – Prayagraj",
+    "date": "2026-10-09",
+    "region": "Prayagraj, Uttar Pradesh",
+    "org": "Jovify",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://jovify.com/job-fairs",
+    "source": "https://jovify.com/job-fairs",
+    "lastVerified": "2026-10-01"
+  },
+  {
     "id": "auto-15",
     "name": "HackerX Hyderabad Tech Job Fair",
     "date": "2026-10-15",
@@ -244,12 +270,12 @@
   },
   {
     "id": "e1",
-    "name": "HackerX Tech Job Fair - Chennai",
+    "name": "HackerX Tech Job Fair – Chennai",
     "date": "2026-12-17",
     "region": "Chennai, Tamil Nadu",
     "org": "HackerX",
     "fmt": "physical",
-    "fee": "Paid — recruiter package (contact HackerX)",
+    "fee": "$495",
     "regClose": "2026-09-10",
     "url": "https://hackerx.org/tech-job-fairs/india",
     "source": "https://hackerx.org/tech-job-fairs/india",
