@@ -206,6 +206,19 @@
     "lastVerified": "2026-10-01"
   },
   {
+    "id": "auto-44",
+    "name": "Mega Job Fair - Thiruvallur",
+    "date": "2026-10-10",
+    "region": "Thiruvallur, Tamil Nadu",
+    "org": "TN Private Job Portal (Government of Tamil Nadu)",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.tnprivatejobs.tn.gov.in/Home/job_mela",
+    "source": "https://www.tnprivatejobs.tn.gov.in/Home/job_mela",
+    "lastVerified": "2026-10-02"
+  },
+  {
     "id": "auto-15",
     "name": "HackerX Hyderabad Tech Job Fair",
     "date": "2026-10-15",
@@ -321,7 +334,7 @@
   },
   {
     "id": "e9",
-    "name": "International Job Fair Bengaluru 2026",
+    "name": "International Job Fair Bengaluru",
     "date": "Recurring — check portal",
     "region": "Bengaluru, Karnataka",
     "org": "Department of Skill Development, Entrepreneurship and Livelihood, Government of Karnataka",
@@ -347,10 +360,10 @@
   },
   {
     "id": "auto-23",
-    "name": "Maharashtra 1000 Job Fairs Program",
+    "name": "Maharashtra State Job Fair Programme",
     "date": "Recurring — check portal",
     "region": "Maharashtra",
-    "org": "Government of Maharashtra, Ministry of Skill Development, Employment, Entrepreneurship and Innovation",
+    "org": "Government of Maharashtra, Skill Development, Employment, Entrepreneurship and Innovation Ministry",
     "fmt": "physical",
     "fee": "",
     "regClose": "",
