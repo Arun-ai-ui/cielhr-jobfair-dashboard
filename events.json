@@ -346,6 +346,19 @@
     "lastVerified": "2026-08-27"
   },
   {
+    "id": "auto-23",
+    "name": "Job Fair (Maharashtra)",
+    "date": "Recurring — check portal",
+    "region": "Maharashtra",
+    "org": "Government of Maharashtra, Department of Skill Development, Employment, Entrepreneurship and Innovation",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.freepressjournal.in/mumbai/maharashtra-to-organise-1000-job-fairs-across-state-from-april-2026-to-boost-youth-employment",
+    "source": "https://www.freepressjournal.in/mumbai/maharashtra-to-organise-1000-job-fairs-across-state-from-april-2026-to-boost-youth-employment",
+    "lastVerified": "2026-09-01"
+  },
+  {
     "id": "auto-30",
     "name": "Karnataka International Job Fair",
     "date": "Recurring — check portal",
@@ -357,19 +370,6 @@
     "url": "https://www.newindianexpress.com/states/karnataka/2025/Nov/22/karnataka-to-host-first-international-job-fair-in-bengaluru-for-skilled-workers-in-jan-2026-2361238",
     "source": "https://www.newindianexpress.com/states/karnataka/2025/Nov/22/karnataka-to-host-first-international-job-fair-in-bengaluru-for-skilled-workers-in-jan-2026-2361238",
     "lastVerified": "2026-09-04"
-  },
-  {
-    "id": "auto-23",
-    "name": "Maharashtra State Job Fair Programme",
-    "date": "Recurring — check portal",
-    "region": "Maharashtra",
-    "org": "Government of Maharashtra, Skill Development, Employment, Entrepreneurship and Innovation Ministry",
-    "fmt": "physical",
-    "fee": "",
-    "regClose": "",
-    "url": "https://www.freepressjournal.in/mumbai/maharashtra-to-organise-1000-job-fairs-across-state-from-april-2026-to-boost-youth-employment",
-    "source": "https://www.freepressjournal.in/mumbai/maharashtra-to-organise-1000-job-fairs-across-state-from-april-2026-to-boost-youth-employment",
-    "lastVerified": "2026-09-01"
   },
   {
     "id": "auto-38",
