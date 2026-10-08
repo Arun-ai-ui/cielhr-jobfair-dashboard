@@ -320,6 +320,19 @@
     "lastVerified": "2026-08-27"
   },
   {
+    "id": "auto-47",
+    "name": "APSSDC Job Mela - Andhra Pradesh",
+    "date": "Recurring — check portal",
+    "region": "Andhra Pradesh, India",
+    "org": "Andhra Pradesh State Skill Development Corporation (APSSDC)",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://mybharat.gov.in/vo/pages/event_detail?event_name=APSSDC-Job-Mela&key=134151174134",
+    "source": "https://mybharat.gov.in/vo/pages/event_detail?event_name=APSSDC-Job-Mela&key=134151174134",
+    "lastVerified": "2026-10-08"
+  },
+  {
     "id": "auto-31",
     "name": "Daman Employment Fair 2026",
     "date": "Recurring — check portal",
@@ -359,17 +372,17 @@
     "lastVerified": "2026-08-27"
   },
   {
-    "id": "auto-23",
-    "name": "Job Fair (Maharashtra)",
+    "id": "auto-49",
+    "name": "International Job Fair Bengaluru 2026",
     "date": "Recurring — check portal",
-    "region": "Maharashtra",
-    "org": "Government of Maharashtra, Department of Skill Development, Employment, Entrepreneurship and Innovation",
+    "region": "Bengaluru, Karnataka, India",
+    "org": "Karnataka Knowledge & Technology Services Development Corporation (KVTSDC)",
     "fmt": "physical",
     "fee": "",
     "regClose": "",
-    "url": "https://www.freepressjournal.in/mumbai/maharashtra-to-organise-1000-job-fairs-across-state-from-april-2026-to-boost-youth-employment",
-    "source": "https://www.freepressjournal.in/mumbai/maharashtra-to-organise-1000-job-fairs-across-state-from-april-2026-to-boost-youth-employment",
-    "lastVerified": "2026-09-01"
+    "url": "https://bengaluruinternationaljobfair.com",
+    "source": "https://bengaluruinternationaljobfair.com",
+    "lastVerified": "2026-10-08"
   },
   {
     "id": "auto-30",
@@ -385,6 +398,19 @@
     "lastVerified": "2026-09-04"
   },
   {
+    "id": "auto-23",
+    "name": "Maharashtra Statewide Job Fair Programme",
+    "date": "Recurring — check portal",
+    "region": "Maharashtra, India",
+    "org": "Government of Maharashtra",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.freepressjournal.in/mumbai/maharashtra-to-organise-1000-job-fairs-across-state-from-april-2026-to-boost-youth-employment",
+    "source": "https://www.freepressjournal.in/mumbai/maharashtra-to-organise-1000-job-fairs-across-state-from-april-2026-to-boost-youth-employment",
+    "lastVerified": "2026-09-01"
+  },
+  {
     "id": "auto-38",
     "name": "Mega Job Fair Chandigarh 2026",
     "date": "Recurring — check portal",
@@ -396,6 +422,19 @@
     "url": "https://www.facebook.com/dgc.edu.in/posts/-the-wait-is-over-mega-job-fair-2026-is-live-the-campus-is-buzzing-with-opportun/1461219986024994",
     "source": "https://www.facebook.com/dgc.edu.in/posts/-the-wait-is-over-mega-job-fair-2026-is-live-the-campus-is-buzzing-with-opportun/1461219986024994",
     "lastVerified": "2026-09-08"
+  },
+  {
+    "id": "auto-48",
+    "name": "MP Rojgar Mela 2026",
+    "date": "Recurring — check portal",
+    "region": "Madhya Pradesh, India",
+    "org": "Government of Madhya Pradesh, Employment Department",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://mpcareer.in/mp-rojgar-mela",
+    "source": "https://mpcareer.in/mp-rojgar-mela",
+    "lastVerified": "2026-10-08"
   },
   {
     "id": "auto-45",
