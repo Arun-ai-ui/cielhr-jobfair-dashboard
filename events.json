@@ -26,19 +26,6 @@
     "lastVerified": "2026-09-02"
   },
   {
-    "id": "auto-20",
-    "name": "Rojgar Mela Arwal 2026",
-    "date": "2026-09-09",
-    "region": "Arwal, Bihar",
-    "org": "DETJOB (Bihar Government)",
-    "fmt": "physical",
-    "fee": "",
-    "regClose": "",
-    "url": "https://detjob.bihar.gov.in",
-    "source": "https://detjob.bihar.gov.in",
-    "lastVerified": "2026-08-30"
-  },
-  {
     "id": "auto-39",
     "name": "One-Day Job Fair – Uttarakhand",
     "date": "2026-09-10",
@@ -232,6 +219,19 @@
     "lastVerified": "2026-10-02"
   },
   {
+    "id": "auto-20",
+    "name": "Rojgar Mela – Aurangabad",
+    "date": "2026-10-12",
+    "region": "Aurangabad, Bihar",
+    "org": "District Employment and Training (DET) Bihar",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://detjob.bihar.gov.in",
+    "source": "https://detjob.bihar.gov.in",
+    "lastVerified": "2026-08-30"
+  },
+  {
     "id": "auto-15",
     "name": "HackerX Tech Job Fair – Hyderabad",
     "date": "2026-10-15",
@@ -283,7 +283,7 @@
   },
   {
     "id": "e1",
-    "name": "HackerX - Chennai",
+    "name": "HackerX Tech Job Fair – Chennai",
     "date": "2026-12-17",
     "region": "Chennai, Tamil Nadu",
     "org": "HackerX",
@@ -538,6 +538,19 @@
     "url": "https://timesofindia.indiatimes.com/city/puducherry/puducherry-labour-dept-to-hold-job-fair/articleshow/79366964.cms",
     "source": "https://timesofindia.indiatimes.com/city/puducherry/puducherry-labour-dept-to-hold-job-fair/articleshow/79366964.cms",
     "lastVerified": "2026-09-10"
+  },
+  {
+    "id": "auto-51",
+    "name": "Prime Career Fair – Visakhapatnam (Edition 2)",
+    "date": "Recurring — check portal",
+    "region": "Visakhapatnam, Andhra Pradesh",
+    "org": "NASSCOM",
+    "fmt": "physical",
+    "fee": null,
+    "regClose": null,
+    "url": "https://primecareerfair-website.pages.dev",
+    "source": "https://primecareerfair-website.pages.dev",
+    "lastVerified": "2026-10-11"
   },
   {
     "id": "auto-25",
