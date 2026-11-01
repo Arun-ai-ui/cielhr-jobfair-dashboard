@@ -283,9 +283,9 @@
   },
   {
     "id": "e1",
-    "name": "HackerX Tech Job Fair – Chennai",
+    "name": "HackerX Tech Job Fair - Chennai",
     "date": "2026-12-17",
-    "region": "Chennai, Tamil Nadu",
+    "region": "Chennai, India",
     "org": "HackerX",
     "fmt": "physical",
     "fee": "$495",
@@ -448,6 +448,19 @@
     "url": "https://rojgarsangam.in/ncs-employment-fair-online-registration",
     "source": "https://rojgarsangam.in/ncs-employment-fair-online-registration",
     "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "auto-52",
+    "name": "National Career Service (NCS) Job Fairs",
+    "date": "Recurring — check portal",
+    "region": "Various locations across India",
+    "org": "National Career Service (NCS)",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://ncs.gov.in",
+    "source": "https://ncsdocsstorage.blob.core.windows.net/ncsdocsstorage/common%2Fwhatsnew%2Fnewsletter_1788784512907.pdf?sv=2023-11-03&spr=https&st=2026-09-07T12%3A30%3A12Z&se=2028-09-07T12%3A35%3A12Z&sr=b&sp=r&sig=IQgb0vVcnu6hhrXri7X772GmfAy2THrOSZV053NQ7D8%3D",
+    "lastVerified": "2026-11-01"
   },
   {
     "id": "auto-50",
