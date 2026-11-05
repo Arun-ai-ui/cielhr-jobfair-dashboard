@@ -104,19 +104,6 @@
     "lastVerified": "2026-08-30"
   },
   {
-    "id": "auto-13",
-    "name": "Rojgaar Sangam – Lucknow",
-    "date": "2026-09-23",
-    "region": "Lucknow, Uttar Pradesh",
-    "org": "Directorate of Training & Employment, Uttar Pradesh",
-    "fmt": "physical",
-    "fee": "",
-    "regClose": "",
-    "url": "https://rojgaarsangam.up.gov.in/RojgaarMela",
-    "source": "https://rojgaarsangam.up.gov.in/RojgaarMela",
-    "lastVerified": "2026-08-27"
-  },
-  {
     "id": "e3",
     "name": "The Great Chennai Job Fair 2026",
     "date": "2026-09-27",
@@ -283,6 +270,19 @@
     "lastVerified": "2026-08-27"
   },
   {
+    "id": "auto-13",
+    "name": "Job Fair – Varanasi",
+    "date": "2026-11-27",
+    "region": "Varanasi, Uttar Pradesh",
+    "org": "Rojgaar Sangam, Uttar Pradesh",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://rojgaarsangam.up.gov.in/RojgaarMela",
+    "source": "https://rojgaarsangam.up.gov.in/RojgaarMela",
+    "lastVerified": "2026-08-27"
+  },
+  {
     "id": "e12",
     "name": "IEEE Career Fair 2026 (Returning Mothers)",
     "date": "2026-12-05",
@@ -370,6 +370,19 @@
     "url": "https://www.marugujarat.in/2026/05/gandhinagar-mega-job-fair-2026-registration",
     "source": "https://www.marugujarat.in/2026/05/gandhinagar-mega-job-fair-2026-registration",
     "lastVerified": "2026-09-04"
+  },
+  {
+    "id": "auto-54",
+    "name": "Haryana Rojgar Mela (state-wide)",
+    "date": "Recurring — check portal",
+    "region": "Haryana",
+    "org": "Employment Department, Haryana",
+    "fmt": "physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://sarkariyojana.com/haryana-job-fair-portal-online-registration",
+    "source": "https://sarkariyojana.com/haryana-job-fair-portal-online-registration",
+    "lastVerified": "2026-11-05"
   },
   {
     "id": "e9",
