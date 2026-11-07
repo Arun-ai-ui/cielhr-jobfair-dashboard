@@ -193,19 +193,6 @@
     "lastVerified": "2026-10-01"
   },
   {
-    "id": "auto-44",
-    "name": "Mega Job Fair - Thiruvallur",
-    "date": "2026-10-10",
-    "region": "Thiruvallur, Tamil Nadu",
-    "org": "TN Private Job Portal (Government of Tamil Nadu)",
-    "fmt": "physical",
-    "fee": "",
-    "regClose": "",
-    "url": "https://www.tnprivatejobs.tn.gov.in/Home/job_mela",
-    "source": "https://www.tnprivatejobs.tn.gov.in/Home/job_mela",
-    "lastVerified": "2026-10-02"
-  },
-  {
     "id": "auto-20",
     "name": "Rojgar Mela – Aurangabad",
     "date": "2026-10-12",
@@ -268,6 +255,19 @@
     "url": "https://hackerx.org/tech-job-fairs/india/pune",
     "source": "https://hackerx.org/tech-job-fairs/india/pune",
     "lastVerified": "2026-08-27"
+  },
+  {
+    "id": "auto-44",
+    "name": "Tamil Nadu Micro Job Fair",
+    "date": "2026-11-12",
+    "region": "Tamil Nadu, India",
+    "org": "TN Private Job Portal, Government of Tamil Nadu",
+    "fmt": "Physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.tnprivatejobs.tn.gov.in/Home/job_mela",
+    "source": "https://www.tnprivatejobs.tn.gov.in/Home/job_mela",
+    "lastVerified": "2026-10-02"
   },
   {
     "id": "auto-13",
@@ -477,15 +477,15 @@
   },
   {
     "id": "auto-52",
-    "name": "National Career Service (NCS) Job Fairs",
+    "name": "National Career Service (NCS) Weekly Job Fair",
     "date": "Recurring — check portal",
-    "region": "Various locations across India",
-    "org": "National Career Service (NCS)",
-    "fmt": "physical",
+    "region": "Various cities across India",
+    "org": "National Career Service, Ministry of Labour & Employment",
+    "fmt": "Physical",
     "fee": "",
     "regClose": "",
     "url": "https://ncs.gov.in",
-    "source": "https://ncsdocsstorage.blob.core.windows.net/ncsdocsstorage/common%2Fwhatsnew%2Fnewsletter_1788784512907.pdf?sv=2023-11-03&spr=https&st=2026-09-07T12%3A30%3A12Z&se=2028-09-07T12%3A35%3A12Z&sr=b&sp=r&sig=IQgb0vVcnu6hhrXri7X772GmfAy2THrOSZV053NQ7D8%3D",
+    "source": "https://ncs.gov.in",
     "lastVerified": "2026-11-01"
   },
   {
@@ -603,6 +603,19 @@
     "url": "https://dect.assam.gov.in/portlets/job-mela-rojgar-mela-job-fair",
     "source": "https://dect.assam.gov.in/portlets/job-mela-rojgar-mela-job-fair",
     "lastVerified": "2026-09-02"
+  },
+  {
+    "id": "auto-55",
+    "name": "Uttarakhand Directorate of Training & Employment Job Fair",
+    "date": "Recurring — check portal",
+    "region": "Uttarakhand, India",
+    "org": "Directorate of Training & Employment, Uttarakhand",
+    "fmt": "Physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://rojgar.uk.gov.in/job-fairs",
+    "source": "https://rojgar.uk.gov.in/job-fairs",
+    "lastVerified": "2026-11-07"
   },
   {
     "id": "auto-33",
