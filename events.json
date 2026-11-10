@@ -244,6 +244,19 @@
     "lastVerified": "2026-08-27"
   },
   {
+    "id": "auto-57",
+    "name": "HackerX - Pune (tech hiring event for employers and engineers)",
+    "date": "2026-11-12",
+    "region": "Pune, Maharashtra",
+    "org": "HackerX",
+    "fmt": "Physical",
+    "fee": "Employer tickets from $495 per event",
+    "regClose": "",
+    "url": "https://hackerx.org/events/100265683/?tickets",
+    "source": "https://hackerx.org/tech-job-fairs/india",
+    "lastVerified": "2026-11-10"
+  },
+  {
     "id": "auto-16",
     "name": "HackerX Tech Job Fair – Pune",
     "date": "2026-11-12",
@@ -270,17 +283,17 @@
     "lastVerified": "2026-10-02"
   },
   {
-    "id": "auto-13",
-    "name": "Job Fair – Varanasi",
+    "id": "auto-58",
+    "name": "DGR Job Fair — Prayagraj",
     "date": "2026-11-27",
-    "region": "Varanasi, Uttar Pradesh",
-    "org": "Rojgaar Sangam, Uttar Pradesh",
-    "fmt": "physical",
+    "region": "Prayagraj, Uttar Pradesh",
+    "org": "Directorate General Resettlement (DGR), Ministry of Defence",
+    "fmt": "Physical",
     "fee": "",
     "regClose": "",
-    "url": "https://rojgaarsangam.up.gov.in/RojgaarMela",
-    "source": "https://rojgaarsangam.up.gov.in/RojgaarMela",
-    "lastVerified": "2026-08-27"
+    "url": "https://dgrindia.gov.in/Content1/job-fair",
+    "source": "https://dgrindia.gov.in/Content1/job-fair",
+    "lastVerified": "2026-11-10"
   },
   {
     "id": "e12",
@@ -293,6 +306,19 @@
     "regClose": "2026-11-28",
     "url": "https://ieeereturningmothers.in/career-fair-2026/",
     "lastVerified": "2026-08-27"
+  },
+  {
+    "id": "auto-59",
+    "name": "HackerX - Chennai (tech hiring event for employers and engineers)",
+    "date": "2026-12-17",
+    "region": "Chennai, Tamil Nadu",
+    "org": "HackerX",
+    "fmt": "Physical",
+    "fee": "Employer tickets from $495 per event",
+    "regClose": "",
+    "url": "https://hackerx.org/events/100265540/?tickets",
+    "source": "https://hackerx.org/tech-job-fairs/india",
+    "lastVerified": "2026-11-10"
   },
   {
     "id": "e1",
@@ -319,6 +345,45 @@
     "url": "https://hackerx.org/tech-job-fairs/india/chennai",
     "source": "https://hackerx.org/tech-job-fairs/india/chennai",
     "lastVerified": "2026-08-27"
+  },
+  {
+    "id": "auto-13",
+    "name": "Job Fair in Gorakhpur (Government I.T.I Chargawan)",
+    "date": "2026-12-18",
+    "region": "Gorakhpur, Uttar Pradesh",
+    "org": "Uttar Pradesh Employment Department (Rojgaar Sangam)",
+    "fmt": "Physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://rojgaarsangam.up.gov.in/RojgaarMela",
+    "source": "https://rojgaarsangam.up.gov.in/RojgaarMela",
+    "lastVerified": "2026-08-27"
+  },
+  {
+    "id": "auto-61",
+    "name": "DGR Job Fair — Dibrugarh (ex-servicemen and employer participation)",
+    "date": "Not published — check source",
+    "region": "Dibrugarh, Assam",
+    "org": "Directorate General Resettlement (DGR), Ministry of Defence",
+    "fmt": "Physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.facebook.com/dgrindia/posts/dgr-job-fairs-november-2026new-cities-new-opportunities-a-promising-month-aheadt/1188131407329330",
+    "source": "https://www.facebook.com/dgrindia/posts/dgr-job-fairs-november-2026new-cities-new-opportunities-a-promising-month-aheadt/1188131407329330",
+    "lastVerified": "2026-11-10"
+  },
+  {
+    "id": "auto-49",
+    "name": "International Job Fair Bengaluru (foreign employer recruitment fair)",
+    "date": "Postponed — new dates to be announced",
+    "region": "Bengaluru, Karnataka",
+    "org": "Karnataka Vocational Training & Skill Development Corporation (KVTSDC), Government of Karnataka",
+    "fmt": "Not specified in source",
+    "fee": "Free (no registration or placement fees)",
+    "regClose": "",
+    "url": "https://bengaluruinternationaljobfair.com",
+    "source": "https://bengaluruinternationaljobfair.com",
+    "lastVerified": "2026-10-08"
   },
   {
     "id": "e7",
@@ -411,19 +476,6 @@
     "lastVerified": "2026-08-27"
   },
   {
-    "id": "auto-49",
-    "name": "International Job Fair Bengaluru 2026",
-    "date": "Recurring — check portal",
-    "region": "Bengaluru, Karnataka",
-    "org": "Karnataka Vishwakarma Technical Services Development Corporation (KVTSDC) – Government of Karnataka",
-    "fmt": "Physical",
-    "fee": "",
-    "regClose": "",
-    "url": "https://bengaluruinternationaljobfair.com",
-    "source": "https://bengaluruinternationaljobfair.com",
-    "lastVerified": "2026-10-08"
-  },
-  {
     "id": "auto-30",
     "name": "Karnataka International Job Fair",
     "date": "Recurring — check portal",
@@ -487,6 +539,19 @@
     "url": "https://rojgarsangam.in/ncs-employment-fair-online-registration",
     "source": "https://rojgarsangam.in/ncs-employment-fair-online-registration",
     "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "auto-60",
+    "name": "National Career Service (NCS) Job Fairs — rolling employer and jobseeker drives across states",
+    "date": "Recurring — check portal",
+    "region": "All India (state and district employment exchanges)",
+    "org": "National Career Service, Ministry of Labour & Employment, Government of India",
+    "fmt": "Hybrid (physical and online drives listed)",
+    "fee": "",
+    "regClose": "",
+    "url": "https://ncs.gov.in/job-fair-list",
+    "source": "https://ncs.gov.in/job-fair-list",
+    "lastVerified": "2026-11-10"
   },
   {
     "id": "auto-52",
