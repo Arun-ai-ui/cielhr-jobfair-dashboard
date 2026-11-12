@@ -283,6 +283,19 @@
     "lastVerified": "2026-10-02"
   },
   {
+    "id": "auto-13",
+    "name": "Job Fair in Hapur — ATMS Group of Institutions, Hapur Bypass",
+    "date": "2026-11-26",
+    "region": "Hapur, Uttar Pradesh",
+    "org": "Rojgaar Sangam, Uttar Pradesh (state government employment portal)",
+    "fmt": "Physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://rojgaarsangam.up.gov.in/RojgaarMela",
+    "source": "https://rojgaarsangam.up.gov.in/RojgaarMela",
+    "lastVerified": "2026-08-27"
+  },
+  {
     "id": "auto-62",
     "name": "DGR Job Fair - Prayagraj",
     "date": "2026-11-27",
@@ -297,16 +310,29 @@
   },
   {
     "id": "auto-58",
-    "name": "DGR Job Fair — Prayagraj",
+    "name": "DGR Job Fair 2026-27 — Prayagraj",
     "date": "2026-11-27",
     "region": "Prayagraj, Uttar Pradesh",
-    "org": "Directorate General Resettlement (DGR), Ministry of Defence",
+    "org": "Directorate General Resettlement (DGR), Department of Ex-Servicemen Welfare, Ministry of Defence",
     "fmt": "Physical",
     "fee": "",
     "regClose": "",
     "url": "https://dgrindia.gov.in/Content1/job-fair",
     "source": "https://dgrindia.gov.in/Content1/job-fair",
     "lastVerified": "2026-11-10"
+  },
+  {
+    "id": "auto-65",
+    "name": "Campus to Corporate: Global Virtual Placement Drive — Where Ambition Meets Opportunity",
+    "date": "2026-12-04",
+    "region": "Online (virtual, India-wide)",
+    "org": "NIED Council",
+    "fmt": "Online",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.nied.co.in/job_fairs.php",
+    "source": "https://www.nied.co.in/job_fairs.php",
+    "lastVerified": "2026-11-12"
   },
   {
     "id": "e12",
@@ -335,7 +361,7 @@
   },
   {
     "id": "e1",
-    "name": "HackerX - Chennai (Tech Job Fair)",
+    "name": "HackerX - Chennai (tech hiring event)",
     "date": "2026-12-17",
     "region": "Chennai, Tamil Nadu",
     "org": "HackerX",
@@ -360,30 +386,108 @@
     "lastVerified": "2026-08-27"
   },
   {
-    "id": "auto-13",
-    "name": "Rojgaar Mela / Job Fair - Gorakhpur (Government I.T.I Chargawan, B R D Medical College)",
-    "date": "2026-12-18",
-    "region": "Gorakhpur, Uttar Pradesh",
-    "org": "Organizer not specified in source (listed on UP Rojgaar Sangam portal)",
-    "fmt": "Physical",
-    "fee": "",
-    "regClose": "",
-    "url": "https://rojgaarsangam.up.gov.in/RojgaarMela",
-    "source": "https://rojgaarsangam.up.gov.in/RojgaarMela",
-    "lastVerified": "2026-08-27"
-  },
-  {
     "id": "auto-63",
-    "name": "Shekhawati Rojgar Mela 2026 - Sikar (two-day fair, 19-20 December)",
+    "name": "Shekhawati Rojgar Mela 2026",
     "date": "2026-12-19 to 2026-12-20",
     "region": "Sikar, Rajasthan",
-    "org": "Not verified in source",
+    "org": "Organiser not specified in the research findings",
     "fmt": "Physical",
     "fee": "",
     "regClose": "",
     "url": "https://rojgarmela.cv",
     "source": "https://rojgarmela.cv",
     "lastVerified": "2026-11-11"
+  },
+  {
+    "id": "auto-67",
+    "name": "Mega Job Fair 2026 — Mewar University",
+    "date": "2026-12-23",
+    "region": "Chittorgarh, Rajasthan",
+    "org": "Mewar University in partnership with District Employment Office, Chittorgarh",
+    "fmt": "Physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.facebook.com/mewaruniversity/posts/-mega-job-fair-2026-grand-announcement-mewar-university-is-proud-to-announce-its/1541039644697376",
+    "source": "https://www.facebook.com/mewaruniversity/posts/-mega-job-fair-2026-grand-announcement-mewar-university-is-proud-to-announce-its/1541039644697376",
+    "lastVerified": "2026-11-12"
+  },
+  {
+    "id": "auto-66",
+    "name": "Bharat Jobs Fair 2027",
+    "date": "2027-02-15 to 2027-02-17",
+    "region": "Noida, Uttar Pradesh",
+    "org": "Organiser not specified in the research findings",
+    "fmt": "Physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.airmeet.com/hub/blog/global-job-fairs-and-career-events-2026-2027",
+    "source": "https://www.airmeet.com/hub/blog/global-job-fairs-and-career-events-2026-2027",
+    "lastVerified": "2026-11-12"
+  },
+  {
+    "id": "auto-68",
+    "name": "12th Annual Job Fair & 2nd Internship Fair 2026 — Assam down town University",
+    "date": "Date not published in the findings — check portal",
+    "region": "Guwahati, Assam",
+    "org": "Assam down town University",
+    "fmt": "Physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.facebook.com/guwahatiplus/videos/hundreds-of-jobs-under-one-roof-assam-down-town-university-hosts-its-12th-annual/3886628851641734",
+    "source": "https://www.facebook.com/guwahatiplus/videos/hundreds-of-jobs-under-one-roof-assam-down-town-university-hosts-its-12th-annual/3886628851641734",
+    "lastVerified": "2026-11-12"
+  },
+  {
+    "id": "auto-72",
+    "name": "Acharya Job Fair 2026 (ಆಚಾರ್ಯ ಉದ್ಯೋಗ ಮೇಳ) with National Employment Service",
+    "date": "Date not published in the findings — check portal",
+    "region": "Bengaluru, Karnataka",
+    "org": "Acharya in collaboration with Sub Regional Employment Exchange, Bangalore (National Employment Service)",
+    "fmt": "Physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.acharya.ac.in/events/acharya/jobfair/index.html",
+    "source": "https://www.acharya.ac.in/events/acharya/jobfair/index.html",
+    "lastVerified": "2026-11-12"
+  },
+  {
+    "id": "auto-69",
+    "name": "Bosco Reach Out Job Fair 2026",
+    "date": "Date not published in the findings — check portal",
+    "region": "Guwahati, Assam",
+    "org": "Bosco Reach Out",
+    "fmt": "Physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.instagram.com/p/DZVLJTiARC5",
+    "source": "https://www.instagram.com/p/DZVLJTiARC5",
+    "lastVerified": "2026-11-12"
+  },
+  {
+    "id": "auto-73",
+    "name": "Kerala IT Job Fair 2026",
+    "date": "Date not published in the findings — check portal",
+    "region": "Kerala",
+    "org": "Organiser not specified in the research findings",
+    "fmt": "Physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://talentconnectjobfair.com",
+    "source": "https://talentconnectjobfair.com",
+    "lastVerified": "2026-11-12"
+  },
+  {
+    "id": "auto-70",
+    "name": "Kolkata Mega Job Fair 2026",
+    "date": "Date not published in the findings — check portal",
+    "region": "Kolkata (East Planet), West Bengal",
+    "org": "Organiser not specified in the research findings",
+    "fmt": "Physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.instagram.com/p/DXZhcFumHwS",
+    "source": "https://www.instagram.com/p/DXZhcFumHwS",
+    "lastVerified": "2026-11-12"
   },
   {
     "id": "auto-61",
@@ -820,5 +924,18 @@
     "regClose": "Rolling",
     "url": "https://www.rojgarstudies.com/up-rojgar-mela-june-2026-recruitment/",
     "lastVerified": "2026-08-27"
+  },
+  {
+    "id": "auto-71",
+    "name": "International Job Fair Bengaluru (overseas hiring for foreign employers)",
+    "date": "To be announced — check portal",
+    "region": "Bengaluru, Karnataka",
+    "org": "Karnataka Vocational Training and Skill Development Corporation (KVTSDC), Government of Karnataka",
+    "fmt": "Physical",
+    "fee": "",
+    "regClose": "",
+    "url": "https://www.bengaluruinternationaljobfair.com/landing",
+    "source": "https://www.bengaluruinternationaljobfair.com/landing",
+    "lastVerified": "2026-11-12"
   }
 ]
